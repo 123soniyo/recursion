@@ -12,7 +12,7 @@ def lastIndex(arr,x):
         if arr[0]==x:
             return 0
         else:
-            return -0
+            return -1
         
 
 n=int(input())
